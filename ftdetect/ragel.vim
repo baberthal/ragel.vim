@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.rl set ft=c.ragel
+autocmd BufNewFile,BufRead *.rl set ft=ragel
